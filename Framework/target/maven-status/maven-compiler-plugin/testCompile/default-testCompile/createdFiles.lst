@@ -1,0 +1,7 @@
+com\regence\utility\BrowserFactory.class
+com\regence\testcases\LoginTestRegence.class
+com\regence\pages\BaseClass.class
+com\regence\utility\ExcelDataProvider.class
+com\regence\pages\HomePage.class
+com\regence\utility\Helper.class
+com\regence\utility\ConfigDataProvider.class
